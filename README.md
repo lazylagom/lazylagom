@@ -1,4 +1,4 @@
-# Stay Lazy, Act Crazy
+# STAY LAZY ACT CRAZY
 
 ## About Me
 
