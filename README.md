@@ -20,7 +20,7 @@ I look forward to the opportunity to **work** and **grow** with you!
 
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -55,13 +55,9 @@ I look forward to the opportunity to **work** and **grow** with you!
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazylagom&layout=donut&show_icons=true&theme=ambient_gradient&hide_border=true" width=38% />
-
-<img src="https://github-readme-stats.vercel.app/api?username=lazylagom&show_icons=true&theme=ambient_gradient&hide_border=true" width=56% />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazylagom&theme=react-dark" width=94%/>
 </div>
 
