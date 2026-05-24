@@ -61,6 +61,3 @@ I look forward to the opportunity to **work** and **grow** with you!
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazylagom&theme=react-dark" width=94%/>
 </div>
 
-![snake gif](https://github.com/lazylagom/lazylagom/blob/output/github-snake-dark.svg?color_snake=#FCFE96&color_dots=#EEEEEE,#E1BEE7,#BA68C8,#8E24AA,#4A148C)
-
-
